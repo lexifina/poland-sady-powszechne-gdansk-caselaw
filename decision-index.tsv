@@ -1962,6 +1962,7 @@ I C 1072/16	decisions/sad-rejonowy-w-gdyni/2017/I-C-1072-16-280511.md
 I C 1072/17	decisions/sad-okregowy-w-toruniu/2018/I-C-1072-17-339061.md
 I C 1072/19	decisions/sad-rejonowy-w-gdyni/2021/I-C-1072-19-438774.md
 I C 1072/20	decisions/sad-rejonowy-w-grudziadzu/2021/I-C-1072-20-455230.md
+I C 1072/23	decisions/sad-okregowy-w-slupsku/2026/I-C-1072-23-555310.md
 I C 1074/15	decisions/sad-rejonowy-gdansk-polnoc-w-gdansku/2015/I-C-1074-15-190235.md
 I C 1074/15	decisions/sad-rejonowy-w-tucholi/2016/I-C-1074-15-223810.md
 I C 1074/18	decisions/sad-okregowy-w-slupsku/2020/I-C-1074-18-408276.md
@@ -2027,6 +2028,7 @@ I C 1087/12	decisions/sad-rejonowy-gdansk-polnoc-w-gdansku/2018/I-C-1087-12-3322
 I C 1087/17	decisions/sad-rejonowy-w-toruniu/2018/I-C-1087-17-333143.md
 I C 1087/19	decisions/sad-rejonowy-w-gdyni/2021/I-C-1087-19-460303.md
 I C 1087/20	decisions/sad-okregowy-w-bydgoszczy/2021/I-C-1087-20-475284.md
+I C 1087/23	decisions/sad-okregowy-w-slupsku/2026/I-C-1087-23-555313.md
 I C 1088/12	decisions/sad-rejonowy-w-gdyni/2018/I-C-1088-12-374733.md
 I C 1088/16	decisions/sad-rejonowy-we-wloclawku/2016/I-C-1088-16-270806.md
 I C 1088/18	decisions/sad-rejonowy-gdansk-polnoc-w-gdansku/2019/I-C-1088-18-467812.md
@@ -3459,6 +3461,7 @@ I C 1385/14	decisions/sad-rejonowy-w-gdyni/2016/I-C-1385-14-246399.md
 I C 1385/16	decisions/sad-rejonowy-w-gdyni/2017/I-C-1385-16-319812.md
 I C 1385/18	decisions/sad-rejonowy-w-toruniu/2019/I-C-1385-18-369952.md
 I C 1385/21	decisions/sad-rejonowy-w-grudziadzu/2022/I-C-1385-21-477082.md
+I C 1385/24	decisions/sad-okregowy-w-slupsku/2025/I-C-1385-24-555318.md
 I C 1386/14	decisions/sad-rejonowy-gdansk-polnoc-w-gdansku/2016/I-C-1386-14-256997.md
 I C 1386/16	decisions/sad-rejonowy-w-gdyni/2018/I-C-1386-16-387884.md
 I C 1386/21	decisions/sad-okregowy-w-bydgoszczy/2022/I-C-1386-21-495881.md
@@ -12110,6 +12113,7 @@ I C 919/19	decisions/sad-rejonowy-w-wabrzeznie/2020/I-C-919-19-438895.md
 I C 919/20	decisions/sad-okregowy-w-bydgoszczy/2021/I-C-919-20-537630.md
 I C 919/23	decisions/sad-okregowy-w-slupsku/2026/I-C-919-23-554807.md
 I C 919/23	decisions/sad-rejonowy-w-grudziadzu/2024/I-C-919-23-499651.md
+I C 919/24	decisions/sad-okregowy-w-slupsku/2026/I-C-919-24-555331.md
 I C 919/24	decisions/sad-rejonowy-w-toruniu/2024/I-C-919-24-516927.md
 I C 92/12	decisions/sad-okregowy-w-slupsku/2013/I-C-92-12-137396.md
 I C 92/13	decisions/sad-okregowy-w-gdansku/2016/I-C-92-13-214286.md
@@ -84276,6 +84280,11 @@ SAOS 555287	decisions/sad-okregowy-w-slupsku/2026/I-C-383-24-555287.md
 SAOS 555289	decisions/sad-okregowy-w-slupsku/2025/I-C-49-21-555289.md
 SAOS 555290	decisions/sad-okregowy-w-slupsku/2024/I-C-659-21-555290.md
 SAOS 555303	decisions/sad-apelacyjny-w-gdansku/2024/V-ACa-2241-23-555303.md
+SAOS 555310	decisions/sad-okregowy-w-slupsku/2026/I-C-1072-23-555310.md
+SAOS 555313	decisions/sad-okregowy-w-slupsku/2026/I-C-1087-23-555313.md
+SAOS 555318	decisions/sad-okregowy-w-slupsku/2025/I-C-1385-24-555318.md
+SAOS 555331	decisions/sad-okregowy-w-slupsku/2026/I-C-919-24-555331.md
+SAOS 555363	decisions/sad-rejonowy-w-toruniu/2025/V-GC-1285-24-555363.md
 SAOS 55573	decisions/sad-okregowy-w-gdansku/2013/III-Ca-761-13-55573.md
 SAOS 55574	decisions/sad-okregowy-w-gdansku/2013/III-Ca-899-12-55574.md
 SAOS 55575	decisions/sad-okregowy-w-gdansku/2013/III-Ca-982-12-55575.md
@@ -88495,6 +88504,7 @@ V GC 1261/20	decisions/sad-rejonowy-w-toruniu/2021/V-GC-1261-20-432115.md
 V GC 1262/20	decisions/sad-rejonowy-w-toruniu/2021/V-GC-1262-20-434589.md
 V GC 1265/19	decisions/sad-rejonowy-w-toruniu/2020/V-GC-1265-19-441960.md
 V GC 1281/24	decisions/sad-rejonowy-w-toruniu/2024/V-GC-1281-24-519829.md
+V GC 1285/24	decisions/sad-rejonowy-w-toruniu/2025/V-GC-1285-24-555363.md
 V GC 1286/20	decisions/sad-rejonowy-w-toruniu/2021/V-GC-1286-20-447645.md
 V GC 1287/19	decisions/sad-rejonowy-w-toruniu/2019/V-GC-1287-19-400808.md
 V GC 1288/20	decisions/sad-rejonowy-w-toruniu/2021/V-GC-1288-20-439720.md
